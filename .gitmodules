@@ -1,0 +1,3 @@
+[submodule "androidframe"]
+	path = androidframe
+	url = git@github.com:jasonsmz/androidframe.git
